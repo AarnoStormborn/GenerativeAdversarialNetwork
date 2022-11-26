@@ -66,7 +66,8 @@ Brain tumors are categorized as primary or secondary:
 
 ## <u> What the Entire thing looks like: </u>
 
-<br><img src="https://i0.wp.com/neptune.ai/wp-content/uploads/Deep-Convolutional-GAN.png?resize=1000%2C233&ssl=1">
+<br>
+<img src="https://i0.wp.com/neptune.ai/wp-content/uploads/Deep-Convolutional-GAN.png?resize=1000%2C233&ssl=1">
 
 ## <u> How do GANs work ? </u>
 
@@ -76,6 +77,7 @@ If the distribution of the generated sample is close to the original sample, the
 
 ## <u> The Minimax setting </u>
 
-<br><img src="https://i0.wp.com/neptune.ai/wp-content/uploads/GANs-equation.png?resize=509%2C53&ssl=1" style="width:500px; height:100px;">
+<br>
+<img src="https://i0.wp.com/neptune.ai/wp-content/uploads/GANs-equation.png?resize=509%2C53&ssl=1" style="width:500px; height:50px;">
 
 <p style="font-size:20px">The answer lies in the loss function or the value function; it measures the distance between the distribution of the data generated and the distribution of the real data. Both the generator and the discriminator have their own loss functions. The generator tries to minimize the loss function while the discriminator tries to maximize.</p>
