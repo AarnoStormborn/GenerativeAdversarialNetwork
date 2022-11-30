@@ -14,14 +14,14 @@ Brain tumors are categorized as primary or secondary:
 </p>
 
 <p align="center">
-<img src="assets/healthline.webp" style="width: 725px; height: 500px"/>
+<img src="/assets/healthline.webp" style="width: 725px; height: 500px"/>
 </p>
 <br>
 
 # How is Brain Tumor diagnosed?
 <br>
 <p align="center">
-<img src="assets/tumor.jpg" style="width:700px; height:400px" />
+<img src="/assets/tumor.jpg" style="width:700px; height:400px" />
 </p>
 <br>
 
@@ -56,7 +56,7 @@ Brain tumors are categorized as primary or secondary:
 
 <p style="font-size:20px">Generative adversarial networks are implicit likelihood models that generate data samples from the statistical distribution of the data. They’re used to copy variations within the dataset. They use a combination of two networks: generator and discriminator.</p>
 <br>
-<img src="assets/gan.webp" />
+<img src="/assets/gan.webp" />
 
 ## <u> The Generator: </u>
 <p style="font-size:20px">A generator network takes a random normal distribution (z), and outputs a generated sample that’s close to the original distribution.</p>
@@ -68,7 +68,7 @@ Brain tumors are categorized as primary or secondary:
 
 <br>
 
-<img src="assets/dcgan.webp">
+<img src="/assets/dcgan.webp">
 
 ## <u> How do GANs work ? </u>
 
@@ -80,6 +80,6 @@ If the distribution of the generated sample is close to the original sample, the
 
 <br>
 
-<img src="assets/minimax.webp" style="width:500px; height:50px;">
+<img src="/assets/minimax.webp" style="width:500px; height:50px;">
 
 <p style="font-size:20px">The answer lies in the loss function or the value function; it measures the distance between the distribution of the data generated and the distribution of the real data. Both the generator and the discriminator have their own loss functions. The generator tries to minimize the loss function while the discriminator tries to maximize.</p>
