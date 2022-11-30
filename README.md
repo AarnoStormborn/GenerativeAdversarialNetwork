@@ -16,6 +16,7 @@ Brain tumors are categorized as primary or secondary:
 <p align="center">
 <img src="/assets/healthline.webp" style="width: 725px; height: 500px"/>
 </p>
+![healthline](/assets/healthline.webp)
 <br>
 
 # How is Brain Tumor diagnosed?
