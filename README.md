@@ -13,16 +13,13 @@ Brain tumors are categorized as primary or secondary:
 </ul>
 </p>
 
-<p align="center">
-<img src="/assets/healthline.webp?raw=true" style="width: 725px; height: 500px"/>
-</p>
+![healthline](https://i0.wp.com/post.healthline.com/wp-content/uploads/2022/02/2009199_Understanding-Brain-Tumors-01.jpg?w=1155&h=1887)
 <br>
 
 # How is Brain Tumor diagnosed?
 <br>
-<p align="center">
-<img src="/assets/tumor.jpg" style="width:700px; height:400px" />
-</p>
+
+![Brain Tumor](https://qph.cf2.quoracdn.net/main-qimg-3cd4287f29cd7fdc7f68ab223107bb64-pjlq)
 <br>
 
 ## Magnetic Resonance Imaging (MRI)
@@ -56,7 +53,8 @@ Brain tumors are categorized as primary or secondary:
 
 <p style="font-size:20px">Generative adversarial networks are implicit likelihood models that generate data samples from the statistical distribution of the data. They’re used to copy variations within the dataset. They use a combination of two networks: generator and discriminator.</p>
 <br>
-<img src="/assets/gan.webp" />
+
+![GAN](https://i0.wp.com/neptune.ai/wp-content/uploads/Generative-adversarial-networks.jpg)
 
 ## <u> The Generator: </u>
 <p style="font-size:20px">A generator network takes a random normal distribution (z), and outputs a generated sample that’s close to the original distribution.</p>
@@ -68,7 +66,7 @@ Brain tumors are categorized as primary or secondary:
 
 <br>
 
-<img src="/assets/dcgan.webp">
+![DCGAN](https://i0.wp.com/neptune.ai/wp-content/uploads/Deep-Convolutional-GAN.png?resize=1000%2C233&ssl=1)
 
 ## <u> How do GANs work ? </u>
 
@@ -80,6 +78,6 @@ If the distribution of the generated sample is close to the original sample, the
 
 <br>
 
-<img src="/assets/minimax.webp" style="width:500px; height:50px;">
+![Minimax](https://i0.wp.com/neptune.ai/wp-content/uploads/GANs-equation.png?resize=509%2C53&ssl=1)
 
 <p style="font-size:20px">The answer lies in the loss function or the value function; it measures the distance between the distribution of the data generated and the distribution of the real data. Both the generator and the discriminator have their own loss functions. The generator tries to minimize the loss function while the discriminator tries to maximize.</p>
