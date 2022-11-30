@@ -54,7 +54,7 @@ Brain tumors are categorized as primary or secondary:
 <p style="font-size:20px">Generative adversarial networks are implicit likelihood models that generate data samples from the statistical distribution of the data. They’re used to copy variations within the dataset. They use a combination of two networks: generator and discriminator.</p>
 <br>
 
-![GAN](https://i0.wp.com/neptune.ai/wp-content/uploads/Generative-adversarial-networks.jpg)
+![GAN](https://miro.medium.com/max/720/1*9jwIuW0KPi3THIvoYg9BUQ.png)
 
 ## <u> The Generator: </u>
 <p style="font-size:20px">A generator network takes a random normal distribution (z), and outputs a generated sample that’s close to the original distribution.</p>
@@ -66,7 +66,7 @@ Brain tumors are categorized as primary or secondary:
 
 <br>
 
-![DCGAN](https://i0.wp.com/neptune.ai/wp-content/uploads/Deep-Convolutional-GAN.png?resize=1000%2C233&ssl=1)
+![DC-GAN](https://camo.githubusercontent.com/45e147fc9dfcf6a8e5df2c9b985078258b9974e3/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313030302f312a33394e6e6e695f6e685044614c7539416e544c6f57772e706e67)
 
 ## <u> How do GANs work ? </u>
 
@@ -78,6 +78,6 @@ If the distribution of the generated sample is close to the original sample, the
 
 <br>
 
-![Minimax](https://i0.wp.com/neptune.ai/wp-content/uploads/GANs-equation.png?resize=509%2C53&ssl=1)
+![MiniMax](https://media.geeksforgeeks.org/wp-content/uploads/g22-1.png)
 
 <p style="font-size:20px">The answer lies in the loss function or the value function; it measures the distance between the distribution of the data generated and the distribution of the real data. Both the generator and the discriminator have their own loss functions. The generator tries to minimize the loss function while the discriminator tries to maximize.</p>
