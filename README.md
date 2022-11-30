@@ -13,9 +13,6 @@ Brain tumors are categorized as primary or secondary:
 </ul>
 </p>
 
-<p align="center">
-<img src="/assets/healthline.webp" style="width: 725px; height: 500px"/>
-</p>
 ![healthline](/assets/healthline.webp)
 <br>
 
